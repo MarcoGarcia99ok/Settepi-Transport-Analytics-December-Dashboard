@@ -19,7 +19,7 @@ Ensure you have the following installed:
 - Power BI Desktop
 - Access to the provided datasets:
   - `Destinos, latitud y longitud.xlsx`
-  - `Viajes por destino.xlsx` Provided as "xlsx" file and Google sheets: https://docs.google.com/spreadsheets/d/1fjVem78f_-biHOTS7u0lVtgt3p-d9rjr4BCqnewbDvA/edit?usp=sharing
+  - `Viajes por destino.xlsx` Provided as "xlsx" file and Google sheets: https://docs.google.com/spreadsheets/d/1fjVem78f_-biHOTS7u0lVtgt3p-d9rjr4BCqnewbDvA/edit?usp=sharing  
   - `Centro de llamadas.xlsx`
 
 ## Installation
@@ -61,9 +61,9 @@ Examine the distribution of travel time by destination and representative to ide
 Filter and view the total minutes of trips made by each driver in December using the line chart.
 
 ## Data Sources
-- **Destinos, latitud y longitud.xlsx**: Contains destination names, latitudes, longitudes, and municipalities.
-- **Viajes por destino.xlsx**: Lists destinations and their corresponding locations.
-- **Centro de llamadas.xlsx**: Includes data on customer service interactions, reviews, and trip records.
+- **Destinos, latitud y longitud**: Contains destination names, latitudes, longitudes, and municipalities.
+- **Viajes por destino**: Lists destinations and their corresponding locations.
+- **Centro de llamadas**: Includes data on customer service interactions, reviews, and trip records.
 
 ## Contributing
 Contributions are welcome. If you have improvements or suggestions, feel free to open an issue or submit a pull request.
@@ -72,4 +72,4 @@ Contributions are welcome. If you have improvements or suggestions, feel free to
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Thank you for exploring the Settepi Transport Dashboard! 
+Thank you for exploring the Settepi Transport Dashboard!
