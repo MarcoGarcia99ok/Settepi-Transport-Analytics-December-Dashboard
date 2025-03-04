@@ -25,9 +25,7 @@ Ensure you have the following installed:
 ## Installation
 
 1. Clone this repository or download the files.
-
 2. Open Power BI Desktop and load the provided datasets.
-
 3. Import the Power BI dashboard template included in the repository.
 
 ## Usage
